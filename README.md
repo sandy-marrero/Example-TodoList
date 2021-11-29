@@ -21,6 +21,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [x] Custom App Icon
+* [x] Custom Coloring and buttons
 
 ## Video Walkthrough
 
