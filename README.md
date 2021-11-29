@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was certainly a new but welcomed experience, which allowed me to be introduced to mobile development. It was however a fun experience that will continue to push me towards learning all about android development. 
 
 ## License
 
