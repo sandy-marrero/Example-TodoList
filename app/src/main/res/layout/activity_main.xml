@@ -16,8 +16,8 @@
         android:layout_height="63dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="0dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="-1dp"
         android:background="@drawable/solid_color_shape"
         android:text="Add"
         app:iconTint="@color/white" />

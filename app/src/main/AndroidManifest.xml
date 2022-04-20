@@ -5,7 +5,7 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_baseline_notes_24"
-        android:label="CheckThis"
+        android:label="To-Do-List"
         android:roundIcon="@mipmap/ic_baseline_notes_24_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SimpleTodo">

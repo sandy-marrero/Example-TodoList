@@ -79,11 +79,13 @@ public class MainActivity extends AppCompatActivity {
                 String todoItem = editText.getText().toString();
                 //Add item to the model
                 //Notify adapter that an item is inserted//
-                items.add(todoItem);
-                itemsAdapter.notifyItemInserted(items.size()-1);
-                editText.setText("");
-                Toast.makeText(getApplicationContext(), "Item was Added", Toast.LENGTH_SHORT).show();
-                saveItems();
+                if(todoItem.length()>0) {
+                    items.add(todoItem);
+                    itemsAdapter.notifyItemInserted(items.size() - 1);
+                    editText.setText("");
+                    Toast.makeText(getApplicationContext(), "Item was Added", Toast.LENGTH_SHORT).show();
+                    saveItems();
+                }
             }
         });
     }
